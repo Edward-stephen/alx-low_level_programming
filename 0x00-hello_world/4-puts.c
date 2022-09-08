@@ -4,7 +4,7 @@
 
 /**
  *
- *  * main - Entry point
+ *   main - Entry point
  *
  *   Description: using the main function
  *   this program prints "Programming is like building a multilingual puzzle
